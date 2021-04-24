@@ -1,0 +1,25 @@
+Package:Clancy's_Rays_Check 
+
+  
+
+Title: Rays 
+
+  
+
+Version: 0.1 
+
+  
+
+Author@r: "James Clancy jamesclancy02@gmail.com" 
+
+  
+
+Description: Loads necessary packages to access baseball database known as Baseball-Reference.com 
+
+ 
+
+License: CCO 
+
+ 
+
+LazyData: true 
