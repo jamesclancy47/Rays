@@ -5,7 +5,7 @@
 %%  GoRays
 }
 \description{
-%% Displays Bird Questioning the rays record then gives Rays current record and division standing
+%% Displays Bird Questioning the rays record then gives Rays current record and division standing uses baseballr package to acesss baseballrefernce data
 }
 \usage{
 RaysRecord(GoRays)
@@ -33,7 +33,8 @@ RaysRecord(GoRays)
 %%  James Clancy
 }
 \note{
-%%  ~~further notes~~
+%% 
+%%Displays Bird Questioning the rays record then gives Rays current record and division standing uses baseballr package to acesss baseballrefernce data
 }
 
 %% ~Make other sections like Warning with \section{Warning }{....} ~
